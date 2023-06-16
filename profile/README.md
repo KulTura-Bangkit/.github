@@ -26,8 +26,6 @@ Kultura is An application that thoughtfully designed to assist users in classify
 |  Machine Learning  |     [Github](https://github.com/KulTura-Bangkit/KulTura-ML-dev)    |
 |   Cloud Computing  |     [Github](https://github.com/KulTura-Bangkit/KulTura-CC-dev)    |
 
-# Service Architecture
-![Service_Architecture]()
 
 # License
 Distributed under the MIT License. See `LICENSE` for more information.
