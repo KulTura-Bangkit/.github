@@ -13,8 +13,8 @@ Kultura is An application that thoughtfully designed to assist users in classify
 |     Alfiano Deni Kusuma     | M314DKX4547 |  Machine Learning  |          Machine Learning Engineer         |           [LinkedIn](https://www.linkedin.com/in/alfiano-deni-kusuma/) or [Github](https://github.com/AlfianoDeni)           |
 |       Ammar Widhianta       | M172DSX1766 |  Machine Learning  |          Machine Learning Engineer         |   [LinkedIn](https://www.linkedin.com/in/ammarwidhianta/) or [Github](https://github.com/ammarrrw)  |
 |   Arya Bagaskara Pratama    | A312DKX4562 | Mobile Development |          Android Mobile Developer          |             [LinkedIn](https://www.linkedin.com/in/arya-bagaskara-pratama-145944240/) or [Github](https://github.com/aryabp)             |
-|     Maulana Ilham Arizqi    | A172DSX2433 | Mobile Development |          Android Mobile Developer          |    [LinkedIn]() or [Github](https://github.com/Aiirizz)    |
-|    Cliff Gallant Satryo     | C287DSX1963 |   Cloud Computing  |              Backend Engineer              |            [LinkedIn]() or [Github](https://github.com/komiai)            |
+|     Maulana Ilham Arizqi    | A172DSX2433 | Mobile Development |          Android Mobile Developer          |    [LinkedIn](https://www.linkedin.com/in/maulana-ilham-arizqi-302b4a271/) or [Github](https://github.com/Aiirizz)    |
+|    Cliff Gallant Satryo     | C287DSX1963 |   Cloud Computing  |              Backend Engineer              |            [LinkedIn](https://www.linkedin.com/in/cliff-gallant-satryo/) or [Github](https://github.com/komiai)            |
 |  Muhammad Reza Herviansyah  | C313DKX4556 |   Cloud Computing  |              Backend Engineer              | [LinkedIn](https://www.linkedin.com/in/herviansyahreza/) or [Github](https://github.com/herviansyahreza) |
 
 # Repositories
