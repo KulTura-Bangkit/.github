@@ -2,6 +2,7 @@
 The documentation of Kultura' application in Bangkit Capstone Project 2023
 
 ![Kultura](https://avatars.githubusercontent.com/u/134790831?s=200&v=4)
+![Bangkit](https://lh3.googleusercontent.com/NtORZkpsdeRJDkdA4DdUYwMUdpL1pNNO1HOVby1F6Qst1jwx6yVRkDmHJeaOtWzFLQWMPZxU_XFurb3646KdxYX8n7cYNoJeC0kpiVOhPWhayI5Z6e0X=w600)
 
 # About
 Kultura is An application that thoughtfully designed to assist users in classifying Indonesian cultural elements, such as batik, traditional food, and houses, goes beyond its informative purpose by actively contributing to the advancement of local businesses (UMKM).
