@@ -31,4 +31,4 @@ Kultura is An application that thoughtfully designed to assist users in classify
 # License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right"> Keep the Bangkit Spirit and Stay Safe! <br> C22-PS007 Teams </p>
+<p align="right"> Keep the Bangkit Spirit and Stay Safe! <br> C23-PS415 Teams </p>
